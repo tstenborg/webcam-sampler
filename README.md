@@ -29,7 +29,7 @@ Automated sampling of webcam imaging was investigated as a means of meteor data 
 | `src/automated-webcam-sampler.xlsm` | Macro-enabled Excel workbook. |
 | `src/webcam-sampler.bas`            | VBA module.                   |
 
-The Excel workbook runs a standalone automated webcam sampler. Its constituent VBA module, WebcamSampler.bas, has also been provided as separate file for a) easy code review outside Excel and b) importing into another Excel workbook, if desired.
+The Excel workbook runs a standalone automated webcam sampler. Its constituent VBA module, `webcam-sampler.bas`, has also been provided as separate file for a) easy code review outside Excel and b) importing into another Excel workbook, if desired.
 
 ## Software Requirements
 
