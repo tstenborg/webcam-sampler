@@ -2,9 +2,13 @@
 
 [![super-linter](../../actions/workflows/super-linter.yml/badge.svg)](../../actions/workflows/super-linter.yml) ![human-only code](https://img.shields.io/badge/human--only-code-white)
 
-Automated sampling of webcam imaging was investigated as a means of meteor data
-collection. A sampling system was developed in Excel with Visual Basic for
-Applications (VBA), the scripting language built into Microsoft's Office suite.
+This repository holds digital resources associated with the article
+"Meteor candidate observations from automated weather camera sampling in VBA"
+[[1](#references)]. That article discusses automated sampling of weather
+webcam imaging for meteor detection. The sampling system was developed in
+Excel, with the Visual Basic for Applications (VBA) scripting language. Though
+introduced in the context of weather webcams, the system can be configured to
+sample from any webcam with a publicly-accessible URL handle.
 
 ---
 
@@ -93,7 +97,6 @@ government's Bureau of Meteorology and Airservices Australia.
 
 1. T. N. Stenborg, "Meteor candidate observations from automated weather camera
    sampling in VBA", in _Proc. International Meteor Conf._, U. Pajer,
-   J. Rendtel, M. Gyssens and C. Verbeeck, Eds., Bollmannsruh, Germany, Oct.
-   3&ndash;6, 2019, pp. 189&ndash;190.\
+   J. Rendtel, M. Gyssens and C. Verbeeck, Eds., 2020, pp. 189&ndash;190.\
    [View PDF](https://articles.adsabs.harvard.edu/pdf/2020pimo.conf..189S.pdf)
    &nbsp; [SciX](https://scixplorer.org/abs/2020pimo.conf..189S/abstract)

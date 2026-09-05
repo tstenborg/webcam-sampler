@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Meteor candidate observations from automated weather camera sampling in VBA"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/webcam-sampler"
+abstract: >-
+  "This repository holds digital resources associated with the article 'Meteor \
+  candidate observations from automated weather camera sampling in VBA'. That \
+  article discusses automated sampling of weather webcam imaging for meteor \
+  detection. The sampling system was developed in Excel, with the Visual Basic \
+  for Applications (VBA) scripting language. Though introduced in the context \
+  of weather webcams, the system can be configured to sample from any webcam \
+  with a publicly-accessible URL handle."
+keywords:
+  - astronomy
+  - "vba-excel"
+  - webcams
+preferred-citation:
+  authors:
+    - given-names: "Travis N."
+      family-names: Stenborg
+  collection-title: "Proceedings of International Meteor Conference"
+  editors:
+    # "editors" appear in BibTeX format only, as "editor".
+    - given-names: Urška
+      family-names: Pajer
+    - given-names: Jürgen
+      family-names: Rendtel
+    - given-names: Marc
+      family-names: Gyssens
+    - given-names: Cis
+      family-names: Verbeeck
+  end: 190  # Last page number.
+  # "notes" values should be formatted as single lines.
+  notes: "Proceedings of International Meteor Conference (IMC) 2019, a conference held in Bollmannsruh, Germany, 03 to 06 Oct, 2019."
+  publisher:
+    # "publisher, name" appears in BibTeX format only, as "publisher".
+    name: "International Meteor Organization"
+  start: 189  # First page number.
+  title: "Meteor candidate observations from automated weather camera sampling in VBA"
+  type: conference-paper
+  year: 2020
